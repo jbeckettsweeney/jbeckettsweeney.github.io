@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    color: black;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: dotted red 1px;
+    height: 80%;
+    width: 80%;
+    max-height: 1000px;
+    max-width: 1000px;
+    min-height: 350px;
+    min-width: 350px;
+}
+  
+h1 {
+
+}
+  
+p {
+    font-size: 20px;
+}
+
+canvas {
+    border: solid black 2px;
+    height: 300px;
+    width: 300px;
+}
